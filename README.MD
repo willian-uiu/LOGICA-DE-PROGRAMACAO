@@ -1,3 +1,6 @@
+# Logica de programação e POO
+## Desafio de lógica classes e objetos da DIO para instanciar uma classe Herois e um objeto desta classe.
+
 **O Que deve ser utilizado**
 
 - Variáveis
